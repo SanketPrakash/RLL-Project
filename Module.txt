@@ -1,0 +1,17 @@
+Shabhana Meatha J:- Registration Module ( Backend and frontend) Homepage design (frontend).
+
+Sanket Prakash:- Summary, Payment (backend and Frontend).
+
+Sapna Shree S :-Login module (backend and frontend) homepage(frontend).
+
+Surendar M:- Admin CRUD operations (Front end and backend - Delete & payment terminal) , Testing.
+
+Somisetty Hemanth Kumar:- Filter module and book module along worked with payment module (frontend and backend).
+
+Siddavatam Jaya Bharath Reddy:- User Crud Operations, helped on home page design , integration of frontend and backend.
+
+Saranya Venkatesan:-User Crud Operations, helped on admin crud operation, integration of frontend and backend.
+
+Sona R :- Admin (backend and frontend) testing.
+
+Snehaa S :- Crud operation Add, update (frontend and backend).
